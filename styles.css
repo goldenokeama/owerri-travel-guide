@@ -1,0 +1,133 @@
+/**
+Palette:
+old gold: #C2B642
+ebony: #54604D
+silver: #C4C0BD
+olive: #948D35
+drab dark brown: #4A4419
+apple green: #8EB305
+ash gray: #B6BAB3
+dark green: #212B17
+khaki: #CDB79D
+fern green: #5D7C53
+
+*/
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  /* color: #4a4419; */
+  color: #222222;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
+.container {
+  width: 720px;
+  margin: 0px auto;
+  box-shadow: 0px 0px 2px #5d7c53;
+}
+
+.hero-section {
+  background-image: url("images/owerri.jpg");
+  background-size: cover;
+  height: 343px;
+  color: #ffffff;
+  text-shadow: 0px 0px 2px black;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-first-heading {
+  background: #5d7c53;
+  border-radius: 10px;
+  padding: 5px 10px;
+  margin-bottom: 12px;
+  box-shadow: 0px 0px 10px #ffffff;
+}
+
+.hero-second-heading {
+  background: #948d35;
+  border-radius: 10px;
+  width: 412px;
+  font-size: 20px;
+  padding: 5px 10px;
+  margin-top: 0;
+  box-shadow: 0px 0px 10px #ffffff;
+}
+
+.activities-section {
+  background: #b6bab3;
+  padding: 38px 0;
+  text-shadow: 0px 0px 2px white;
+}
+
+.activities-heading {
+  display: inline-block;
+  margin-top: 0;
+  margin-bottom: 54px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #948d35;
+}
+
+.activities-row {
+  display: flex;
+  justify-content: space-around;
+}
+
+.activity {
+  width: 198px;
+  padding: 6px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 30px darkgray;
+}
+.activity:hover {
+  box-shadow: 0px 0px 10px #5d7c53;
+  scale: 1.05;
+}
+
+.activity-img {
+  border-radius: 50%;
+  border: 4px solid #948d35;
+}
+
+.ofe-owerri {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.guide-section {
+  padding-block: 50px;
+  background: #f1faee;
+}
+
+.guide-card {
+  width: 400px;
+  height: 294px;
+  margin: 0 auto;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-inline: 12px;
+
+  background: #5d7c53;
+  border-radius: 10px;
+  border-block: 8px solid gray;
+}
+
+.guide-img {
+  width: 180px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+.guide-details {
+  width: 189px;
+}

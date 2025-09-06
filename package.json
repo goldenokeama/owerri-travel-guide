@@ -1,0 +1,14 @@
+{
+  "name": "owerri-travel-guide",
+  "description": "A single-page travel guide for Owerri, Nigeria",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}

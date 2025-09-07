@@ -9,6 +9,10 @@ This is a static, single-page travel guide for **Owerri**, Nigeria, created usin
 - **Clear Content Hierarchy:** Uses semantic HTML5 elements to structure the content logically.
 - **Modern Aesthetic:** Features a clean, appealing color palette to enhance the user experience.
 
+## How to view
+
+To view the live project, [click here](https://owerri-travel-guide.netlify.app/).
+
 ## Technologies Used
 
 - HTML5

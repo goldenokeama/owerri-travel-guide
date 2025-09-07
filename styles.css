@@ -1,4 +1,4 @@
-/**
+/*
 Palette:
 old gold: #C2B642
 ebony: #54604D
@@ -10,7 +10,6 @@ ash gray: #B6BAB3
 dark green: #212B17
 khaki: #CDB79D
 fern green: #5D7C53
-
 */
 
 body {
@@ -94,12 +93,11 @@ img {
 
 .activity-img {
   border-radius: 50%;
-  border: 4px solid #948d35;
+  border: 4px solid #5d7c53;
 }
 
 .ofe-owerri {
   font-style: italic;
-  font-weight: bold;
 }
 
 .guide-section {
